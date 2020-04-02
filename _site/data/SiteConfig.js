@@ -30,7 +30,7 @@ const config = {
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/infiniteplacesorg",
+      url: "https://twitter.com/Vagr9K",
       iconClassName: "fa fa-twitter"
     },
     {
