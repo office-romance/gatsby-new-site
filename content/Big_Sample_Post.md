@@ -7,8 +7,30 @@ category: Objects
 tags:
   - pages
 ---
-# Office Romance 
+## The creative output of Ash Caplan. A designer working across media and messages. This website it the WIP showcase of the output from various projects. Currently self-initiated projects, the studio is looking to take on projects. These services/contributions can include (but not limited to):
 
-## is a studio established to explore and connect disciplines and create in the world.
+Brand Architecture
 
-#### This is a record of building and growing that studio.
+Environmental Design
+
+Experience and Event Design
+
+Business Design
+
+Information Architecture
+
+Experience Design
+
+Place-making
+
+Circular Design Strategy
+
+Feasability Studies
+
+Social Design
+
+Social Engagement Strategies
+
+Reach out @romanceoffice
+
+![image](assets/typerwriter.png)
