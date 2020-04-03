@@ -78,8 +78,6 @@ If you are interested in a foundation for building ultra-fast websites, you can 
   - Separate page for posts under each tag
 - Categories
   - Separate page for posts under each category
-- [Disqus](https://disqus.com/) support
-  - Notifications about new disqus comments
 - `/static/` and content folders are available to use with [gatsby-image](https://www.gatsbyjs.org/docs/gatsby-image/) out of the box for optimized image generation
 - High configurability
 - Separate components for everything:
@@ -155,7 +153,6 @@ module.exports = {
   siteRssTitle: "Gatsby Advanced Starter RSS feed", // Title of the RSS feed
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
   googleAnalyticsID: "UA-47311644-5", // GA tracking ID.
-  disqusShortname: "https-vagr9k-github-io-gatsby-advanced-starter", // Disqus shortname.
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD/MM/YYYY", // Date format for display.
   postsPerPage: 4, // Amount of posts displayed per listing page.
@@ -229,7 +226,3 @@ backend:
 You can visit `/admin/` after and will be greeted by a login dialog (depending on the auth provider you ave chosen above).
 
 For NetlifyCMS specific issues visit the [official documentation](https://www.netlifycms.org/docs/intro/).
-
-# Author
-
-Ruben Harutyunyan ([@Vagr9K](https://twitter.com/Vagr9K))
