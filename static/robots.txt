@@ -2,4 +2,4 @@ User-agent: *
 Disallow: */tags/
 Disallow: */categories/
 
-sitemap: https://friendly-lumiere-2818c3.netlify.com//sitemap.xml
+sitemap: https://romanceoffice.com//sitemap.xml

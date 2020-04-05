@@ -3,7 +3,7 @@ const config = {
   siteTitleShort: "OfficeRomance", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Office Romance Creative", // Alternative site title for SEO.
   siteLogo: "/logos/Asset 1.png", // Logo used for SEO and manifest.
-  siteUrl: "https://gatsby-new-site.netlify.com", // Domain of your website without pathPrefix.
+  siteUrl: "https://romanceoffice.com", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "A creative studio with a whole bunch of creative outlets", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
