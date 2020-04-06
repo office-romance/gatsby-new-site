@@ -31,6 +31,8 @@ Social Design
 
 Social Engagement Strategies
 
-Reach out on IG http://instagram.com/romanceoffice
+Reach out on [Instagram](http://instagram.com/romanceoffice)
 
 ![image](assets/typerwriter.png)
+
+Go [Home](https://romanceoffice.com)

@@ -34,3 +34,7 @@ class PostListing extends React.Component {
 }
 
 export default PostListing;
+  (<div>
+    <Link to="/contact/">Contact</Link>
+  </div>
+);

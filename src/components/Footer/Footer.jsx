@@ -18,7 +18,7 @@ class Footer extends Component {
           <h4>{copyright}</h4>
 
           <Link to={url}>
-            <button>Home</button>
+            <button>RSS</button>
           </Link>
 
         </div>
