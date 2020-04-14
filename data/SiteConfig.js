@@ -13,9 +13,15 @@ const config = {
   disqusShortname: "https-vagr9k-github-io-gatsby-advanced-starter", // Disqus shortname.
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD/MM/YYYY", // Date format for display.
+<<<<<<< Updated upstream
   postsPerPage: 4, // Amount of posts displayed per listing page.
   userName: "Advanced User", // Username to display in the author segment.
   userEmail: "AdvancedUser@example.com", // Email used for RSS feed's author segment
+=======
+  postsPerPage: 0, // Amount of posts displayed per listing page.
+  userName: "Romance Inc", // Username to display in the author segment.
+  userEmail: "romanceoffice@gmail.com", // Email used for RSS feed's author segment
+>>>>>>> Stashed changes
   userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "North Pole, Earth", // User location to display in the author segment.
   userAvatar: "https://api.adorable.io/avatars/150/test.png", // User avatar to display in the author segment.

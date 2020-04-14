@@ -100,13 +100,12 @@ module.exports = {
     },
     "gatsby-plugin-offline",
     {
-      resolve: "gatsby-plugin-netlify-cms",
+      resolve: "gatsby-source-sanity",
       options: {
-        modulePath: path.resolve("src/netlifycms/index.js"), // default: undefined
-        enableIdentityWidget: true,
-        publicPath: "admin",
-        htmlTitle: "Content Manager",
-        includeRobots: false
+        projectId: "4qls5ppd",
+        dataset: "production",
+        token: process.env.skRVl9f8hku9xFRao5iQ3m6J44EyLWktlTEwxn5gSO4RtWyOvKMhpQZJJvTFyBOtEgjR1qX2ObpGgKVe6OUSGMP7wWSz44BUGc2qVr4g6xobmKF3BwcuZ8PrYxAwRQKNex3xvmGePCtUy8F6YEUY1YlhLrkVtYFJ26SRwO3g3Tg65ldzAXUa,
+        watchMode: true,
       }
     },
     {
