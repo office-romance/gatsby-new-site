@@ -35,4 +35,4 @@ Reach out on [Instagram](http://instagram.com/romanceoffice)
 
 ![image](assets/typerwriter.png)
 
-Go [Home](https://romanceoffice.com)
+[Home](https://romanceoffice.com)
