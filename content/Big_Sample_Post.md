@@ -2,8 +2,8 @@
 title: What is Office Romance?
 date: 2020-03-30T16:00:00.000Z
 cover: assets/typerwriter.png
-slug: Typewriter
-category: Objects
+slug: info
+category: info
 tags:
   - pages
 ---
@@ -31,7 +31,9 @@ Social Design
 
 Social Engagement Strategies
 
-Reach out on [Instagram](http://instagram.com/romanceoffice)
+[Instagram](http://instagram.com/romanceoffice)
+
+[Email] (ashercaplan.studio@gmail.com)
 
 ![image](assets/typerwriter.png)
 
