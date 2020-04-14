@@ -33,7 +33,7 @@ Social Engagement Strategies
 
 [Instagram](http://instagram.com/romanceoffice)
 
-[Email] <ashercaplan.studio@gmail.com>
+[mailto] <ashercaplan.studio@gmail.com>
 
 ![image](assets/typerwriter.png)
 
