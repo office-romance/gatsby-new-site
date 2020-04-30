@@ -2,7 +2,7 @@
 title: A new luxury offering
 date: 2020-04-14T13:46:05.825Z
 cover: assets/sketchpad.png
-slug: project
+slug: idlehours
 category: self-initiated project
 tags:
   - pages
