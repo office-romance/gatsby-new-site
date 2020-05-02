@@ -10,3 +10,6 @@
   align-items: flex-start;
   align-content: space-around;
 }
+h3 {
+  font-family: neue-haas-grotesk-display, sans-serif;
+}
