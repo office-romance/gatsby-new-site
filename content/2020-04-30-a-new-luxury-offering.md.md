@@ -20,6 +20,6 @@ tags:
 
 ### Content
 
-[Website] (http://idlehours.co)
+[Website] (https://idlehours.co)
 
-[Instagram] (http://instagram.com/idlehoursco.com)
+[Instagram] (https://instagram.com/idlehoursco)
