@@ -39,6 +39,9 @@ class Listing extends React.Component {
 
     return (
       <Layout>
+      <div>
+        <img src={'/logos/Asset 1.png'} alt="Logo"/>
+      </div>
         <div className="listing-container">
           <div className="posts-container">
             <Helmet title={config.siteTitle} />
