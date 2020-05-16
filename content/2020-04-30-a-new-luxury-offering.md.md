@@ -1,5 +1,5 @@
 ---
-title: A new luxury offering
+title: A company offering a new luxury
 date: 2020-04-14T13:46:05.825Z
 cover: assets/sketchpad.png
 slug: idlehours
@@ -20,6 +20,8 @@ tags:
 
 ### Content
 
-[Website] (https://idlehours.co)
+[Website](https://idlehours.co)
 
-[Instagram] (https://instagram.com/idlehoursco)
+[Instagram](https://instagram.com/idlehoursco)
+
+[<-- Home](https://romanceoffice.com)
