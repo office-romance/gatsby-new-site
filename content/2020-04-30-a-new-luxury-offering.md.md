@@ -1,5 +1,5 @@
 ---
-title: A company offering a new luxury
+title: An Idle Hours Company
 date: 2020-04-14T13:46:05.825Z
 cover: assets/sketchpad.png
 slug: idlehours
