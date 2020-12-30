@@ -1,5 +1,5 @@
 ---
-title: What is Office Romance?
+title: About
 date: 2020-03-30T16:00:00.000Z
 cover: assets/typerwriter.png
 slug: info
@@ -7,7 +7,7 @@ category: info
 tags:
   - pages
 ---
-## The creative output of Ash Caplan. A designer working across media and messages. This website it the WIP showcase of the output from various projects. Currently self-initiated projects, the studio is looking to take on projects. These services/contributions can include (but not limited to):
+## Office Romance is the creative studio of Ash Caplan. A designer working across media and messages. This website is the WIP showcase of the output from various projects. Currently self-initiated projects, the studio is looking to take on projects. These services/contributions can include (but not limited to):
 
 Brand Architecture
 
