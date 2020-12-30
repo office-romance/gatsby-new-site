@@ -12,7 +12,7 @@ const config = {
   googleAnalyticsID: "UA-47311644-5", // GA tracking ID.
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD/MM/YYYY", // Date format for display.
-  postsPerPage: 1, // Amount of posts displayed per listing page.
+  postsPerPage: 3, // Amount of posts displayed per listing page.
   userName: "Romance Inc", // Username to display in the author segment.
   userEmail: "romanceoffice@gmail.com", // Email used for RSS feed's author segment
   userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
@@ -34,7 +34,7 @@ const config = {
     },
     {
       label: "Email",
-      url: "romanceoffice@gmail.com",
+      url: "computingcoop@gmail.com",
       iconClassName: "fa fa-envelope"
     }
   ],

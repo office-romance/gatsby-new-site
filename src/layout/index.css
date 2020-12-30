@@ -38,7 +38,8 @@ a {
   font-style: normal;
   font-size: 1.5em;
   color: blue;
-  text-decoration: underline;
+  border-bottom: 2px solid currentColor;
+  text-decoration: none;
 }
 h2 {
   font-family: neue-haas-grotesk-display, sans-serif;
