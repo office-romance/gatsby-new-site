@@ -11,6 +11,6 @@ We are now offering handmade websites.
 
 We do color theory, typography, illustrations and code. Delivering a simple website with a human touch. For examples see:
 
-[Idle Hours] (https://www.idlehours.co)
+[Idle Hours](https://www.idlehours.co)
 [How to Make Space](https://www.howtomake.space)
 [Superpotent](https://www.superpotent.world)
